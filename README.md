@@ -1,4 +1,6 @@
 # js-hindi-youtube
-A Code repo. for Javascript series at Chai or Code Youtube channel.
+This repository documents my hands-on practice and understanding of core JavaScript concepts through the Chai aur Code YouTube series.
 
-Thanks me later. 
+✔ Clean code
+✔ Concept-focused examples
+✔ Beginner to intermediate coverage
